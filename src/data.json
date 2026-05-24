@@ -1,0 +1,169 @@
+{
+    "identity": {
+        "name": "Clément",
+        "lastname": "Spanneut",
+        "title": "Développeur & Créateur",
+        "catchphrase": "Développeur passionné, je crée des jeux vidéo, des sites web et des applications.",
+        "about": "Je suis un étudiant en informatique à Epitech, avec une passion pour le développement de projets variés. J'aime apprendre de nouvelles technologies et relever des défis techniques. Mon objectif est de créer des expériences numériques innovantes et engageantes.",
+        "email": "clementspanneut541@gmail.com",
+        "phone": "07 52 08 92 71",
+        "github": "https://github.com/ClementSPANNEUT",
+        "cv": "/cv.pdf",
+        "school": "Epitech",
+        "year": "2026"
+    },
+    "stats": [
+        {
+            "value": "4",
+            "label": "Projets"
+        },
+        {
+            "value": "3",
+            "label": "Années d'étude"
+        },
+        {
+            "value": "8+",
+            "label": "Compétences"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C#",
+            "icon": "🎮",
+            "level": 4
+        },
+        {
+            "name": "Python",
+            "icon": "🐍",
+            "level": 4
+        },
+        {
+            "name": "HTML",
+            "icon": "🌐",
+            "level": 4
+        },
+        {
+            "name": "CSS",
+            "icon": "🎨",
+            "level": 4
+        },
+        {
+            "name": "Java",
+            "icon": "☕",
+            "level": 3
+        },
+        {
+            "name": "React",
+            "icon": "⚛️",
+            "level": 3
+        },
+        {
+            "name": "Docker",
+            "icon": "🐳",
+            "level": 2
+        },
+        {
+            "name": "Arduino",
+            "icon": "🔌",
+            "level": 3
+        }
+    ],
+    "languages": [
+        {
+            "name": "Anglais",
+            "level": 3
+        },
+        {
+            "name": "Espagnol",
+            "level": 2
+        }
+    ],
+    "diplomas": [
+        {
+            "name": "BAC STI2D",
+            "icon": "🎓"
+        },
+        {
+            "name": "PIX",
+            "icon": "💻"
+        },
+        {
+            "name": "Diplôme Voltaire",
+            "icon": "✍️"
+        }
+    ],
+    "experiences": [
+        {
+            "type": "school",
+            "title": "Bachelor Informatique",
+            "place": "Epitech — Lille",
+            "period": "Sept 2025 → Aujourd'hui",
+            "desc": "Formation intensive en développement logiciel, projets en équipe, approche par la pratique."
+        },
+        {
+            "type": "school",
+            "title": "BAC STI2D SIN",
+            "place": "Lycée Saint Joseph — Hazebrouck",
+            "period": "Sept 2022 → Juil 2025",
+            "desc": "Filière Sciences et Technologies de l'Industrie et du Développement Durable, spécialité Systèmes d'Information et Numérique."
+        },
+        {
+            "type": "work",
+            "title": "Stage d'observation — Service DATA",
+            "place": "Crédit Mutuel Nord Europe",
+            "period": "Janvier 2022",
+            "desc": "Découverte du monde de l'entreprise au sein d'un service DATA, observation des pratiques professionnelles."
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-todo",
+            "desc": "Frontend d'une application de gestion de tâches. Interface simple et efficace développée en React avec TypeScript.",
+            "tech": "TypeScript · React",
+            "year": "2025",
+            "github": "https://github.com/ClementSPANNEUT/E-todo",
+            "demo": ""
+        },
+        {
+            "title": "Hack Juice",
+            "desc": "Projet de cybersécurité sur OWASP Juice Shop. Identification et exploitation de vulnérabilités web : injection SQL, broken auth, CAPTCHA bypass, contrôle d'accès...",
+            "tech": "Cybersécurité · OWASP",
+            "year": "2025",
+            "github": "https://github.com/ClementSPANNEUT/Hack_Juice",
+            "demo": ""
+        },
+        {
+            "title": "MMoRPG",
+            "desc": "Jeu de type RPG/Farmer développé en C#. Exploration d'une architecture de jeu avec gestion de personnages et de monde.",
+            "tech": "C#",
+            "year": "2025",
+            "github": "https://github.com/ClementSPANNEUT/MMoRPG",
+            "demo": ""
+        },
+        {
+            "title": "Runner",
+            "desc": "Mini-jeu de type runner développé en équipe. Projet simple pour explorer la mécanique de jeu 2D.",
+            "tech": "Jeu vidéo",
+            "year": "2025",
+            "github": "https://github.com/ClementSPANNEUT/RunnerUserGroup",
+            "demo": ""
+        }
+    ],
+  "learnings": [
+        {
+            "icon": "🧠",
+            "title": "Apprendre par la pratique",
+            "desc": "Epitech m'a appris à chercher, expérimenter et échouer pour mieux comprendre. Chaque projet est une nouvelle façon d'apprendre par moi-même."
+        },
+        {
+            "icon": "🤝",
+            "title": "Travailler en équipe",
+            "desc": "Les projets de groupe m'ont appris à communiquer, à m'organiser et à faire confiance aux autres. C'est une compétence que je continue de développer."
+        },
+        {
+            "icon": "🎯",
+            "title": "Aller à l'essentiel",
+            "desc": "J'ai compris que la simplicité est souvent la solution la plus élégante. Une interface sobre et bien pensée vaut mieux qu'une interface surchargée."
+        }
+    ]
+}
